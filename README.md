@@ -1,3 +1,2 @@
-Hi, I’m Atharva Mendhulkar freshman at VIT Vellore
-I’m interested in web developement
-I’m currently learning html,css,Js,python
+I'm Atharva Mendhulkar, Freshman at VIT Vellore.
+- I am currently learning web dev and python
