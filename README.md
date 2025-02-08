@@ -28,7 +28,7 @@
 <h2 align="center">⚡ Current Stats ⚡</h2>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=mendhu36&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=mendhu36&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mendhu36&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendhu36&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
@@ -42,10 +42,10 @@
 
 <h2 align="center">📬 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://linkedin.com/in/mendhu36" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER/" target="_blank">
+  <a href="https://twitter.com/mendhu35" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
