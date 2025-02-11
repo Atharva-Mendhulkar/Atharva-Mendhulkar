@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🔹 <b>1st-year IT student at VIT Vellore</b> <br>
+🔹 <b>1st-year IT undergrad at VIT Vellore</b> <br>
 🔹 Passionate about <b>DSA, Web Development, and AI/ML</b> <br>
 🔹 Competitive Programming on <b>Codeforces, CodeChef & LeetCode</b> <br>
 🔹 Exploring <b>Full Stack Development & AI applications</b>  
