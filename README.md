@@ -1,50 +1,82 @@
-<div align="center"> 
+# 💫 About Me:
+<h2 align="center">👋 Hi, I'm Atharva!</h2>
+<p align="center">
+🚀 Aspiring Software Engineer | Competitive Programmer | Tech Enthusiast  
+</p>
 
-<h2 align="center">Leetcode Info</h2>  
+<p align="center">
+🔹 <b>1st-year IT student at VIT Vellore</b> <br>
+🔹 Passionate about <b>DSA, Web Development, and AI/ML</b> <br>
+🔹 Competitive Programming on <b>Codeforces, CodeChef & LeetCode</b> <br>
+🔹 Exploring <b>Full Stack Development & AI applications</b>  
+</p>
+
+## 💡 Currently:
+- 📈 Improving CP ratings & solving DSA problems  
+- 🌍 Building web projects (MERN) & exploring Web3  
+- 🤖 Experimenting with AI/ML models  
+
+### **CP Ratings:**  
+📊 **Codeforces** - `951` | **CodeChef** - `1328`  
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>  
+<p align="center">
+  <a href="https://linkedin.com/in/mendhu36"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/mendhu35"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="mailto:mendhu36@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>  
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-mendhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-mendhu&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-mendhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+---
+
+<h2 align="center">Leetcode Badges</h2>  
 <p align="center">
   <a href="https://leetcode.com/u/mendhu36/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="December Leetcoding Challenge" height="200" width="200" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="December Leetcoding Challenge" height="200" width="200" />
   </a>
 </p>
+
+---
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+---
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Atharva-mendhu&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
+---
 
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/mendhu36?theme=dark&font=Nunito&ext=heatmap" />  
+  <img src="https://visitcount.itsvg.in/api?id=Atharva-mendhu&icon=0&color=0">
 </p>
 
-<h2 align="center">Competitive Programming Profiles</h2>
-<p align="center">
-  <a href="https://leetcode.com/u/mendhu36/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/Atharva-mendhu" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/mendhu36" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-<h2 align="center">⚡ Current Stats ⚡</h2>
-
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Atharva-mendhu&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Atharva-mendhu&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-mendhu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</div>
-
-<h2 align="center">🌱 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<h2 align="center">📬 Connect With Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/mendhu36" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mendhu35" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
