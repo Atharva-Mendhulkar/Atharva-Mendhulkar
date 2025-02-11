@@ -46,7 +46,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharva-mendhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-mendhu&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva-mendhu&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-mendhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
@@ -76,7 +76,8 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Atharva-mendhu&icon=0&color=0">
+  <img src="https://profile-counter.glitch.me/Atharva-mendhu/count.svg" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
